@@ -8,6 +8,7 @@ public class Main {
     public static void main(String[] args) {
         /* chieder allutente di inserire un numero */
         Scanner scanner = new Scanner(System.in);
+
         System.out.println("inserisci un numero di parole: ");
         int N = Integer.parseInt(scanner.nextLine());
 
