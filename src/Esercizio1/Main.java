@@ -22,7 +22,7 @@ public class Main {
 
 
 
-            /*verificare la parola*/
+            /*verificare la parola */
             if (!paroleDistinte.add(parola)) {
                 paroleDuplicate.add((parola));
             }
